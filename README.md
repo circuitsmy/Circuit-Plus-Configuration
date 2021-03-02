@@ -2,6 +2,9 @@
 
 For your information, the Circuits Plus board has embedded ESP32 chips which are called System on Chip (SoC) that enable the board to connect to the Wi-Fi and Bluetooth. So, before we start using the ESP32 mode, we need to install the ESP32 Package Board.
 
+  ![circuit plus](https://user-images.githubusercontent.com/60383798/109613628-61a7bf80-7b6c-11eb-9412-456e704d92fe.png)
+
+
 1. Install the ESP32 library.  *Go to File-> Preferences*
 
 ![preference](https://user-images.githubusercontent.com/60383798/109612718-1e991c80-7b6b-11eb-9595-ad0fad73a013.png)
